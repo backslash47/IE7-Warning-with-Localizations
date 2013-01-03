@@ -1,4 +1,4 @@
-#IE6 Upgrade Warning
+#IE7 Upgrade Warning
 
 ![Example Screenshot](http://img683.imageshack.us/img683/3734/exampleuk.png)
 
@@ -6,7 +6,7 @@ NOTE: This is based off http://code.google.com/p/ie6-upgrade-warning/. Thanks to
 
 The ie6-upgrade-warning is a little script (7.9kb) that displays a warning message politely informing the user to upgrade the browser to a newer version (links to newest IE, Firefox, Opera, Safari, Chrome are provided).
 
-The webpage is still visible behind a transparent background, but access to it is prevented. The idea is to force users to upgrade from IE6 and avoid the website from a bad reputation that website is not rendering correctly in IE6.
+The webpage is still visible behind a transparent background, but access to it is prevented. The idea is to force users to upgrade from IE7 and avoid the website from a bad reputation that website is not rendering correctly in IE7.
 
 Provides a much more sane way of localization.
 
