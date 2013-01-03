@@ -14,7 +14,7 @@
     var msg2      = LOC('msg2');
     var msg3      = LOC('msg3');
     var br1       = LOC('br1');
-    var br2       = LOC('br2');;
+    var br2       = LOC('br2');
     var br3       = LOC('br3');
     var br4       = LOC('br4');
     var br5       = LOC('br5');
@@ -100,8 +100,8 @@
   _dl.style.filter = "alpha(opacity=50)";
   _dl.style.background = "#fff";
   var _dd = document.getElementById('_d');
-  _ddw = 650;
-  _ddh = 260;
+  var _ddw = 660;
+  var _ddh = 260;
   _dd.style.width = _ddw+"px";
   _dd.style.height = _ddh+"px";
   _dd.style.position = "absolute";
